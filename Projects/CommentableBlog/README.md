@@ -15,6 +15,17 @@ Leaving the comment for a question, thoughts, etc would provide a better context
 
 Or each paragraph can have an `id` tag a user can copy and paste in the comment at the end...(if leaving a comment in-line can't work)
 
+# When does this fail?
+
+This could add a blog to the blog page size. Depending on the implementation, dynamic feature loading might not be available.
+
+As this style of commenting is not a standard practice, people could be confused as to how to leave a comment as we are trained to scroll to the bottom to leave a comment...  
+_Need to figure out how to make it more intuitive_
+
+# Accessibility Concerns?
+
+a11y is not my strong suit. The best I can do for now is to run [Axe][axe] and follow the recommendations thereof.
+
 # Suggestions?
 
 1. GitHub style comment on the line.
@@ -51,3 +62,4 @@ Readers should be able to hide comments or `+` for leaving comments?
 
 [wraprootelement]: https://www.gatsbyjs.org/docs/browser-apis/#wrapRootElement
 [wrappageelement]: https://www.gatsbyjs.org/docs/browser-apis/#wrapPageElement
+[axe]: https://www.deque.com/axe/
