@@ -7,6 +7,14 @@ I wanted to ask a question by leaving a comment at a specific section, which can
 
 But there isn't a way to leave a comment not to mention right at that location.
 
+# How is this beneficial?
+
+Many blogs are to share news and teach others. When readers have a question many blogs have a way to leave a comment at the bottom but the context is either lost or hard to associate it with the content, unless a commentor copies text from the article or take a screenshot of it.
+
+Leaving the comment for a question, thoughts, etc would provide a better context without having to scroll to the content.
+
+Or each paragraph can have an `id` tag a user can copy and paste in the comment at the end...(if leaving a comment in-line can't work)
+
 # Suggestions?
 
 1. GitHub style comment on the line.
@@ -36,6 +44,10 @@ On hover of a paragraph, add the "+" as GitHub shows, but instead of leaving the
 1. Gatsby - Create a plugin to wrap each paragraph.
    - [wrapRootElement][wraprootelement] - Provide the whole site with the comment system
    - [wrapPageElement][wrappageelement] - Provide the per-page level comment
+
+# Additional Info?
+
+Readers should be able to hide comments or `+` for leaving comments?
 
 [wraprootelement]: https://www.gatsbyjs.org/docs/browser-apis/#wrapRootElement
 [wrappageelement]: https://www.gatsbyjs.org/docs/browser-apis/#wrapPageElement
