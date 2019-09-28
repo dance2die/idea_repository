@@ -3,20 +3,20 @@
 As I was reading https://www.howtographql.com/graphql-js/8-filtering-pagination-and-sorting/,
 I wanted to ask a question by leaving a comment at a specific section, which can be answered there right where the question is asked.
 
-![links length?](links-length.png)
+![links length?](images/links-length.png)
 
 But there isn't a way to leave a comment not to mention right at that location.
 
 # Suggestions?
 
 1. GitHub style comment on the line.
-   ![github comment style](github_style.gif)
+   ![github comment style](images/github_style.gif)
 
 - **Up**: Easy to leave a comment & reply. Easy to spot.
 - **Down**: Hard to implement as HTML text flows unlike code samples above.
 
 1. Google Doc style comment
-   ![google doc style](google_doc_style.gif)
+   ![google doc style](images/google_doc_style.gif)
 
 - **Up**: Doesn't change the flow of the page & comment stands out
 - **Down**: Harder to use - Need to highlight for the "comment" button to show up.
