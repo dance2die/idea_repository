@@ -1,3 +1,8 @@
+---
+title: Composable document components
+date: 2019-11-13
+---
+
 # What?
 
 Composable document components is a way to create "components", which you can use to compose a whole new document(ation/tutorial/books/courses/video courses/MOOC, etc), "doc(s)" hereafter.
